@@ -3,12 +3,14 @@ Dorkshigh updates and info
 
 V.00.0.2
 
---Removed Grids on maps
+- Removed Grids on maps
 
---REMOVED QBX-HUD ADDED NEW HUD
+- REMOVED QBX-HUD ADDED NEW HUD
 
---Fixed galaxy gas 
+- Fixed galaxy gas 
 
---Changed Dispatch System 
+- Changed Dispatch System 
 
 - Updated Fueling system
+
+- Added Fraudulant Script
