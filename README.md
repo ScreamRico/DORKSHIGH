@@ -13,4 +13,6 @@ V.00.0.2
 
 - Updated Fueling system
 
-- Added Fraudulant Script
+- Added Fraudulent Script
+
+- Added new shops ui
