@@ -23,4 +23,6 @@ V.00.0.2
 
 - Added | PlayTime Store
 
-- Added | Fishing Job 
+- Added | Fishing Job
+
+- Added | Gym&Skill System
