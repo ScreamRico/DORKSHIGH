@@ -26,3 +26,5 @@ V.00.0.2
 - Added | Fishing Job
 
 - Added | Gym&Skill System
+
+- Added | New PDM
