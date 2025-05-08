@@ -18,3 +18,5 @@ V.00.0.2
 - Added new shops ui
 
 - Updated icons on hud
+
+- Added a GoKart Script
