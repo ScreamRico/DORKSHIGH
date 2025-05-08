@@ -21,4 +21,6 @@ V.00.0.2
 
 - Added | GoKart Script
 
-- Added | PlayTime Store 
+- Added | PlayTime Store
+
+- Added | Fishing Job 
