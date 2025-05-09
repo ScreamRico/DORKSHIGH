@@ -28,3 +28,5 @@ V.00.0.2
 - Added | Gym&Skill System
 
 - Added | New PDM
+
+-  Added | New Digital Den
