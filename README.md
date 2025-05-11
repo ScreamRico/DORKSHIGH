@@ -23,7 +23,9 @@ V.00.0.2
 
 - Added | PlayTime Store
 
-- Added | Fishing Job
+- Added | Fishing Job\
+
+- Added | Picture in Songs on Loading Screen
 
 - Added | Gym&Skill System
 
