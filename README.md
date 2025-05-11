@@ -33,4 +33,6 @@ V.00.0.2
 
 -  Added | New Digital Den
 
--  Fixed | PDM Where Some Vehicles Were UnBuyable 
+-  Fixed | PDM Where Some Vehicles Were UnBuyable
+
+-  Added | Boat Rental For Fishing
