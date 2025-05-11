@@ -36,3 +36,5 @@ V.00.0.2
 -  Fixed | PDM Where Some Vehicles Were UnBuyable
 
 -  Added | Boat Rental For Fishing
+
+-  Reduced | Knockout
