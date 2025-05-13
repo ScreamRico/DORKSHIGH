@@ -39,4 +39,6 @@ V.00.0.2
 
 -  Reduced | Knockout
 
--  Fixed | PDM Where Menu Wouldn't Open 
+-  Fixed | PDM Where Menu Wouldn't Open
+
+-  Removed | SellDrugs [+] ADDED /Dealer
