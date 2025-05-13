@@ -42,3 +42,5 @@ V.00.0.2
 -  Fixed | PDM Where Menu Wouldn't Open
 
 -  Removed | SellDrugs [+] ADDED /Dealer
+
+-  Added | Hood MLO
