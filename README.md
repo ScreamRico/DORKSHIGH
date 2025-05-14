@@ -50,3 +50,5 @@ V.00.0.2
 -  Added | Auto Exotic MLO
 
 - Added | Los Santos Customes MLO
+
+- Added | Legion MLO
