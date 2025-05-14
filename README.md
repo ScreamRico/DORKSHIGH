@@ -48,3 +48,5 @@ V.00.0.2
 -  Added | Pill Box MLO
 
 -  Added | Auto Exotic MLO
+
+- Added | Los Santos Customes MLO
