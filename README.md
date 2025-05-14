@@ -45,4 +45,6 @@ V.00.0.2
 
 -  Added | Hood MLO
 
--  Added | Pill Box MLO 
+-  Added | Pill Box MLO
+
+-  Added | Auto Exotic MLO
