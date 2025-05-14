@@ -44,3 +44,5 @@ V.00.0.2
 -  Removed | SellDrugs [+] ADDED /Dealer
 
 -  Added | Hood MLO
+
+-  Added | Pill Box MLO 
